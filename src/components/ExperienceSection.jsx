@@ -37,7 +37,7 @@ const timeline = [
     badge: "Achievements",
     title: "Awards & Certificates",
     list: [
-      "CODEX 3.0 — Namal University · Runner-Up 🏆",
+      "CODEX 3.0 — Namal University · Runner-Up",
       "React.js for Beginners — Simplilearn",
       "Vibe Coding Course — Simplilearn",
     ],

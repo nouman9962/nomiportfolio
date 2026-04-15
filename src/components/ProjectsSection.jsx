@@ -70,7 +70,7 @@ const projects = [
 ];
 
 const ProjectsSection = () => {
-  const [selectedProject, setSelectedProject] = useState<typeof projects[0] | null>(null);
+  const [selectedProject, setSelectedProject] = useState(null);
   const { ref, isVisible } = useScrollReveal(0.05);
 
   return (
